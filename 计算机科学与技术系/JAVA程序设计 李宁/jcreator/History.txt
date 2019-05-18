@@ -1,0 +1,33 @@
+--------------------------------------------------------------
+History JCreator LE v2.00
+--------------------------------------------------------------
+V2.00 Build 007 : 
+- Solved: The Compile Folder command from the FileView didn't work properly.
+- Solved: Compile File issue with files in the root directory.
+- Solved: The New Project window didn't handle whitespaces correctly in the name field.
+- Solved: The classView didn't reflect interface/class type changes.
+- Solved: Problem related to Find + Match whole word option.
+- Some minor adjustments in the help files.
+--------------------------------------------------------------
+V2.00 Build 006 : 
+- Solved: The output of the Find in Files features was redirected to the wrong output tab.
+- Some minor adjustments in the help files.
+- 'Remove File' command is now available for all file types in the FileView.
+--------------------------------------------------------------
+V2.00 Build 005 : 
+- Solved: In some situations the titlebar didn't display the name 'JCreator'.
+--------------------------------------------------------------
+V2.00 Build 004 : 
+- Solved: Crash syntax initialization due long comments or keywords in the syntax file.
+- Solved: Problem related to the IgnoreSyntaxCase flag.
+- Solved: The output window didn't display the '&' character.
+--------------------------------------------------------------
+V2.00 Build 003 : 
+- Solved: The command Compile Project was not compatible with older JDK versions.
+- Solved: The execution of the AppletViewer failed after closing the Project Settings dialog.
+--------------------------------------------------------------
+V2.00 Build 002 : 
+- Solved: Problem regarding saving toolbar settings under win9x/NT. 
+--------------------------------------------------------------
+V2.00 Build 001 : 
+- First release
