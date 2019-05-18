@@ -24,8 +24,10 @@
 
 贡献者名单：
 * 傻翠 [@idealclover](https://github.com/idealclover)：项目主维护者 [个人博客](https://idealclover.top/) Email: [idealclover@live.com](mailto:idealclover@live.com)
+* 商学院外联部：提供商院外联大礼包
 * Yake38：添加了商学院经济学院的课程笔记
 * llht [@llht](https://github.com/llht)：添加了电子系的课程笔记
+* Colin [@Yanci1022](https://github.com/Yanci1022)：添加了商学院和计科的课程笔记
 
 ## 如果你也想做出贡献
 
@@ -40,6 +42,10 @@
 ### 上传课件/笔记
 
 如果希望帮助建设项目，上传自己课程的课件/笔记：
+
+别废话！直接上车！
+
+![](https://i.loli.net/2019/05/19/5ce032cc814c853767.png)
 
 上传要求：
 * 格式可以为 .docx/.doc .pptx/.ppt .markdown/.md .one .pdf等多种形式
