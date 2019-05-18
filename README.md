@@ -4,7 +4,30 @@
 
 项目网址 [https://onedrive.idealclover.top](https://onedrive.idealclover.top)
 
-## 做出贡献
+## 使用方法
+
+去 项目网址 [https://onedrive.idealclover.top](https://onedrive.idealclover.top) ，没啥好说的。
+
+项目网址中对 doc markdown 等格式提供了预览，pdf 由于技术问题暂无法做到预览。
+
+由于 GitHub 大文本传输的特殊性，部分大于 150 MB 单文件将无法在 GitHub 的 Repo 中显示，可在项目主页中查看完整目录
+
+部分笔记（后缀为.md/.markdown）使用 Markdown 编写，建议使用相关的阅读器及编辑器浏览，推荐 [Typora](https://typora.io/)。
+
+部分笔记（后缀为.one）使用 OneNote 编写，建议使用 OneNote 打开。
+
+## 贡献者名单及广告
+
+仓库其实是傻翠一时兴起弄出来的，后来看到某某某大学们都有了自己的课件仓库下定决心推一波。在看了看别家的选型之后采用了 Git + OneDrive 这种对其他学院也较为友好的方式。
+
+域名和服务器暂时就用傻翠的了，后期如果项目做大了再说 hhhh
+
+贡献者名单：
+* 傻翠 [@idealclover](https://github.com/idealclover)：项目主维护者 [个人博客](https://idealclover.top/) Email: [idealclover@live.com](mailto:idealclover@live.com)
+* Yake38：添加了商学院经济学院的课程笔记
+* llht [@llht](https://github.com/llht)：添加了电子系的课程笔记
+
+## 如果你也想做出贡献
 
 ### 提交问题
 
@@ -23,9 +46,8 @@
 * 过大的附件可以使用百度网盘等网盘链接
 
 上传方式：
-* 熟悉github的同学可以直接提交Pull Requests
-* 不熟悉的同学可以通过Onedrive方式上传 具体可以联系傻翠
-* 可以通过邮箱或QQ方式联系项目维护者
+* GitHub 方式：适合了解 GitHub 及 Git 的同学，可 fork 后直接提交Pull Requests
+* OneDrive 方式：适合不了解 GitHub 的同学，可联系项目维护者获取上传链接
 
 欢迎各种形式的问题反馈/共享贡献！>v<
 
@@ -33,15 +55,15 @@
 
 ### 建站程序
 
-建站程序使用 onenote + [oneindex](https://github.com/donwa/oneindex) 方案
+建站程序使用 OneDrive + [OneIndex](https://github.com/donwa/oneindex) 方案
 
 ### 课程课件
 
-所有课程课件版权归课程老师所有，本站只为南京大学学生进行复习资料的共享，出于善意原则。如果侵犯了您的权益，请提交 issue，或邮件联系项目维护者傻翠（[idealclover@live.com](mailto:idealclover@live.com)），我们将在第一时间予以删除。
+所有课程课件版权归课程老师所有，本站只为南京大学学生进行复习资料的共享，出于善意原则。如果侵犯了您的权益，请提交 issue，或邮件联系项目维护者，我们将在第一时间予以删除。
 
 ### 课程笔记
 
-课程笔记采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
+如非笔记所有者特殊注明，课程笔记采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
 
 具体而言，您可以自由地：
 
