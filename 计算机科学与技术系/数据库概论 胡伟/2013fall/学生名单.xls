@@ -1,0 +1,3602 @@
+
+
+
+
+
+<html>
+  <head>
+    <title>导出学生名单</title>
+  </head>
+  <style>
+	@media print{
+		INPUT {display:none}
+		#pageMarker {display: block}
+	}
+  </style>
+  <body>
+  	<center><input type="button" value="导出到Excel"></center>
+    <table border="0" style="font-size:10px;" width="100%" height="100%" align="center">
+		<thead style="display:table-header-group;font-weight:bold">
+			<tr><td align="center" style="font-weight:bold;font-size:20px">南京大学&nbsp;&nbsp;《数据库概论》&nbsp;&nbsp;课程学生名单<br><br></td></tr>
+			<tr><td align="center" style="font-weight:bold;font-size:18px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></td></tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>
+					<table cellpadding="2" border="0" style="border-collapse:collapse;font-size:14px;" width="100%" height="100%" align="center">
+						<thead style="display:table-header-group;font-weight:bold">
+							<tr align="center" valign="middle" style="font-weight:bold;">
+								<td style="border:solid 1px #000000" width="73" align="center">学号</td>
+								<td style="border:solid 1px #000000" width="120" align="center">姓名</td>
+								<td style="border:solid 1px #000000" width="35" align="center">类型</td>
+								<td style="border:solid 1px #000000" width="150" align="center">院系专业</td>
+								<td style="border:solid 1px #000000" width="10" align="center">1</td>
+								<td style="border:solid 1px #000000" width="10" align="center">2</td>
+								<td style="border:solid 1px #000000" width="10" align="center">3</td>
+								<td style="border:solid 1px #000000" width="10" align="center">4</td>
+								<td style="border:solid 1px #000000" width="10" align="center">5</td>
+								<td style="border:solid 1px #000000" width="10" align="center">6</td>
+								<td style="border:solid 1px #000000" width="10" align="center">7</td>
+								<td style="border:solid 1px #000000" width="10" align="center">8</td>
+								<td style="border:solid 1px #000000" width="10" align="center">9</td>								
+								<td style="border:solid 1px #000000" align="center">备注</td>
+							</tr>
+						</thead>
+						
+						
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">101099164</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;张睿鲜</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220002</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;柏涛</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220004</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;陈海波</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220013</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;程刚</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220014</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;程硕</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220017</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;邓雷</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220019</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;董加星</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220026</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;高兴坤</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220028</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;顾涛勇</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220031</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;郭其峰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220035</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;贺俊杰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220040</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;胡小康</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220041</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;华德雨</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220042</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;黄大为</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220045</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;黄经纬</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220046</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;黄茂森</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220052</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;雷雨豪</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220053</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;李丹丹</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220055</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;李高峰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220057</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;李佳隆</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							<tr id="pageMarker" valign="bottom" style="page-break-after:always;height:30px;">
+								<td colspan="13" align="center">第1页</td>
+								
+							</tr>
+								
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220059</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;李栗</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220060</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;李政亮</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220061</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;梁宇</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220064</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;刘姜敏</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220065</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;刘杰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220067</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;刘鹏</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220068</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;刘天驰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220071</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;刘宇星</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220072</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;刘志鹏</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220077</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;鲁晓宇</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220079</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;陆天晗</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220080</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;陆唯一</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220083</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;孟占帅</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220084</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;缪顾敏</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220085</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;牛晓帆</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220089</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;钱宝燕</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220096</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;沈骁</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220097</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;沈晓彬</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220099</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;师颖毫</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220105</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;苏成</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							<tr id="pageMarker" valign="bottom" style="page-break-after:always;height:30px;">
+								<td colspan="13" align="center">第2页</td>
+								
+							</tr>
+								
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220106</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;孙淳</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220108</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;孙敬榆</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220109</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;孙立飞</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220110</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;孙旻</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220113</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;唐凯</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220114</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;唐伟晨</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220119</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;汪邱晟</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220120</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;王颢然</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220125</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;王琦</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220126</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;王庆民</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220128</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;王文平</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220132</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;王咏乾</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220134</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;魏莉力</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220137</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;吴明康</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220139</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;武蕴杰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220140</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;奚彦</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220141</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;夏春秋</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220142</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;夏寒</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220150</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;徐俊</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220154</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;许文宇</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							<tr id="pageMarker" valign="bottom" style="page-break-after:always;height:30px;">
+								<td colspan="13" align="center">第3页</td>
+								
+							</tr>
+								
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220155</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;薛飞</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220157</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;薛子野</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220159</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;杨凡</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220160</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;杨鑫勇</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220164</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;杨征</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220167</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;余训昭</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220169</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;臧世博</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220174</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;张赫</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220176</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;张杰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220181</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;张耀天</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220183</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;张宇韬</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220184</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;赵建宇</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220185</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;赵天浩</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220186</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;赵泽浩</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220187</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;赵梓铭</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220189</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;郑文豪</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220192</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;朱海峰</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220193</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;朱宏岳</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220194</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;朱嘉琪</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220195</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;朱润身</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							<tr id="pageMarker" valign="bottom" style="page-break-after:always;height:30px;">
+								<td colspan="13" align="center">第4页</td>
+								
+							</tr>
+								
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220199</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;祖鹏飞</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+							<tr valign="middle">
+								<td width="73" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">111220200</td>
+								<td width="120" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;吴悠</td>
+								<td width="35" style="border:solid 1px #000000" align="center" valign="middle" rowspan="2">
+									
+										正选
+										
+										
+										
+										
+										
+									
+								</td>
+								<td width="150" style="border:solid 1px #000000" valign="middle" rowspan="2">&nbsp;计算机 - 计算机类</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>
+								<td width="15" style="border:solid 1px #000000" align="center">&nbsp;</td>								
+								<td rowspan="2" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+							
+								
+								
+							<tr>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+								<td width="15" align="center" style="border:solid 1px #000000">&nbsp;</td>
+							</tr>
+								
+							
+							
+						
+						
+							<tr id="pageMarker" valign="bottom" style="height:30px;">
+								<td colspan="13" align="center">第5页</td>
+								
+							</tr>
+						
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+  </body>
+</html>
