@@ -28,6 +28,7 @@
 * Yake38：添加了商学院经济学院的课程笔记
 * llht [@llht](https://github.com/llht)：添加了电子系的课程笔记
 * Colin [@Yanci1022](https://github.com/Yanci1022)：添加了商学院和计科的课程笔记
+* 五竹 [@lengyuner](https://github.com/lengyuner)：添加了数学系的笔记与试卷
 
 ## 如果你也想做出贡献
 
