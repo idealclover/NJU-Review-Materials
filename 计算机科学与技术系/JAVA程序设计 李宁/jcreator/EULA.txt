@@ -1,0 +1,117 @@
+END-USER LICENSE AGREEMENT FOR JCREATOR LE
+
+
+NOTICE TO ALL USERS:CAREFULLY READ THE FOLLOWING LEGAL AGREEMENT, 
+FOR THE LICENSE OF SPECIFIED SOFTWARE BY XINOX SOFTWARE. BY INSTALLING 
+THE SOFTWARE, YOU (EITHER AN INDIVIDUAL OR A SINGLE ENTITY) CONSENT 
+TO BE BOUND BY AND BECOME A PARTY TO THIS AGREEMENT. IF YOU DO NOT 
+AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, CLICK THE BUTTON THAT 
+INDICATES THAT YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT AND DO 
+NOT INSTALL THE SOFTWARE. 
+
+1. GENERAL
+
+This End-User License Agreement ("EULA") is a legal agreement between 
+you and Xinox Software for the Xinox Software products identified above, 
+which may include computer software and associated media, electronic 
+documentation and printed materials ("The Software"). By installing, 
+copying, distributing or otherwise using The Software you agree to be 
+bound by the terms of this EULA. If you do not agree to the terms of 
+this EULA, you must not install, use or distribute The Software, and 
+you must destroy all copies of The Software that you have. 
+
+The Software is protected by copyright laws and international copyright 
+treaties, as well as other intellectual property laws and treaties. 
+The Software is licensed, not sold and always remains the property of 
+Xinox Software.
+
+2. LICENSE RESTRICTIONS: 
+
+YOU MAY NOT: (a) Sublicense, sell, assign, transfer, pledge, distribute, 
+rent or remove any proprietary notices on the Software except as expressly 
+permitted in this Agreement; (b) Use, copy, adapt, disassemble, decompile, 
+reverse engineer or modify the Software, in whole or in part, except as 
+expressly permitted in this Agreement; (c) Take any action designed to 
+unlock or bypass any Company-implemented restrictions on usage, access to, 
+or number of installations of the Software; or (d) Use the Software if you 
+fail to pay any license fee due and the Company notifies you that your 
+license is terminated. 
+
+IF YOU DO ANY OF THE FOREGOING, YOUR RIGHTS UNDER THIS LICENSE WILL AUTOMATICALLY 
+TERMINATE. SUCH TERMINATION SHALL BE IN ADDITION TO AND NOT IN LIEU OF ANY CRIMINAL, 
+CIVIL OR OTHER REMEDIES AVAILABLE TO XINOX SOFTWARE.
+
+
+3. TRANSFER OF RIGHTS
+
+You may permanently transfer all of your rights under this EULA, provided you 
+retain no copies of The Software, you transfer all of The Software (including 
+all component parts, documentation upgrades, and this EULA), and the recipient 
+agrees to the terms of this EULA. If The Software is an upgrade, any transfer 
+must include all prior versions of The Software.
+
+4. TERMINATION
+
+Without prejudice to any other rights, Xinox Software may terminate this EULA 
+if you fail to comply with the terms and conditions of this EULA. In such event, 
+you must destroy all copies of The Software.
+
+5. COPYRIGHT
+
+All title, including but not limited to copyrights, in and to The Software and 
+any copies thereof are owned by Xinox Software. All title and intellectual 
+property rights in and to the content which may be accessed through use of The 
+Software is the property of the respective content owner and may be protected 
+by applicable copyright or other intellectual property laws and treaties. This 
+EULA grants you no rights to use such content. All rights not expressly granted 
+are reserved by Xinox Software.
+
+6. LIMITED WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, XINOX SOFTWARE DISCLAIMS ALL 
+WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED 
+TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE, AND THE PROVISION OF 
+OR FAILURE TO PROVIDE SUPPORT SERVICES.XINOX SOFTWARE DOES NOT WARRANT THAT THE 
+SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL 
+BE UNINTERRUPTED OR ERROR FREE.THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, 
+ACCURACY, AND EFFORT IS WITH YOU, THE USER.
+
+7. LIMITATIONS OF REMEDIES AND LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL XINOX 
+SOFTWARE BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL OR 
+OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF 
+PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, OR ANY OTHER PECUNIARY LOSS) 
+ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT OR THE PROVISION 
+OF OR FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF XINOX SOFTWARE HAS BEEN ADVISED 
+OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES AND JURISDICTIONS DO NOT ALLOW 
+THE EXCLUSION OR LIMITATION OF LIABILITY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+8. DISTRIBUTION
+
+You are hereby licensed to make as many copies of the installation package for 
+The Software as you wish; give exact copies of the original installation package 
+for The Software to anyone; and distribute the original installation package for 
+The Software in its unmodified form via electronic or other means. The Software 
+must be clearly identified as an free version where described.
+
+You are specifically prohibited from charging, or requesting donations, for any 
+such copies, however made; and from distributing The Software including documentation 
+with other products (commercial or otherwise) without prior written permission 
+from Xinox Software. You are also prohibited from distributing components of 
+The Software other than the complete original installation package.
+
+9. FINAL
+
+9.1 This Licence is governed by Dutch Law and is subject to exclusive jurisdiction 
+of the Dutch courts.
+
+9.2 This Licence constitutes the complete and exclusive statement of our agreement 
+with you and supercedes all proposals, representations, understandings and prior 
+agreements whether oral or written and all communications with you relating thereto.
+
+
+
+
+

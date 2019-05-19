@@ -50,6 +50,7 @@
 上传要求：
 * 格式可以为 .docx/.doc .pptx/.ppt .markdown/.md .one .pdf等多种形式
 * 过大的附件可以使用百度网盘等网盘链接
+* **课件需要经过对应老师的许可**
 
 上传方式：
 * GitHub 方式：适合了解 GitHub 及 Git 的同学，可 fork 后直接提交Pull Requests
